@@ -5,3 +5,7 @@
 _board_backup_*/
 _sign_backup_*/
 _generated_signs.json
+
+# Generated DRM previews (large, rebuilt by the bot) -- never committed
+_drm_preview/
+**/_drm_preview/
